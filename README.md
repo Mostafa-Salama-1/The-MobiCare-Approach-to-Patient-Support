@@ -98,7 +98,5 @@ The user selects the mode via push buttons connected to the STM32, which handles
 - Health data stored and retrieved successfully using Firebase
 - Smooth interaction between all subsystems
 
----
 
-## 📁 Repository Structure
 
